@@ -1,1 +1,5 @@
-# test
+# Demo project 
+
+```
+git clone [URL]
+```
